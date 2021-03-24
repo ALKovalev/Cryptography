@@ -1,0 +1,3 @@
+D:\Загрузки\PROJECT\Skipjack\Debug\Skipjack.exe
+D:\Загрузки\PROJECT\Skipjack\Debug\Skipjack.pdb
+D:\Main\VS projects\Skipjack\Debug\Skipjack.exe

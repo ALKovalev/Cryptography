@@ -1,0 +1,10 @@
+﻿  Main.c
+D:\Main\VS projects\Skipjack\Main.c(36,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Main\VS projects\Skipjack\Main.c(42,23): warning C4018: <: несоответствие типов со знаком и без знака
+  Mersenne.c
+  SHA1.c
+D:\Main\VS projects\Skipjack\SHA1.c(40,15): warning C4013: memcpy: нет определения; предполагается "extern" с возвратом типа "int"
+D:\Main\VS projects\Skipjack\SHA1.c(136,11): warning C4013: memset: нет определения; предполагается "extern" с возвратом типа "int"
+  Skipjack.c
+  Создание кода...
+  Skipjack.vcxproj -> D:\Main\VS projects\Skipjack\Debug\Skipjack.exe
